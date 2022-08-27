@@ -1,2 +1,1 @@
-# Mandatory-Targing
-Mandatory-targing
+# Mandatory-TargingOf-EC2-RDS
